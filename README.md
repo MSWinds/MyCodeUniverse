@@ -2,26 +2,23 @@
 
 Embark on a journey through MyCodeUniverse, a vibrant constellation of my coding endeavors! From polished applications to experimental sandboxes, each project here tells a part of my story as a developer. Dive into this eclectic mix and explore the realms of creativity and code.
 
-## Featured Projects
+## 🔥 Featured Projects
 
-Below is a collection of some projects that I've worked on. They range from comprehensive, feature-rich applications to smaller, experimental ventures.
+Below is a collection of some small public projects that I've worked on. They range from comprehensive, feature-rich applications to smaller, experimental ventures.
 
-### [Project Name 1](link-to-project-1)
-A brief description of Project 1. This project focuses on...
+### [Yuri-Function Collection](https://github.com/MSWinds/yuri-func)
+A curated assortment of custom Python utilities and functions, the Yuri-Function Collection is designed for easy integration and use in a variety of projects. It showcases practical and reusable code pieces, ideal for enhancing functionality and efficiency in diverse Python applications.
 
-### [Project Name 2](link-to-project-2)
-A quick insight into Project 2. This creation is all about...
-
-### [Project Name 3](link-to-project-3)
-An overview of Project 3. In this project, I tackled...
+### [Kaggle House Price Prediction](https://github.com/MSWinds/kaggle-house-price-prediction)
+My first foray into Kaggle competitions, this project utilizes the Ames Housing dataset to predict house prices. It represents a significant step in my data science journey, showcasing my skills in data analysis and machine learning to achieve a decent result.
 
 ---
 
-*More projects will be added here as my universe expands.*
+*🧪 More projects will be added here as my universe expands.*
 
 ---
 
-Feel free to explore these projects and reach out if you have any questions or want to collaborate on something exciting!
+💡Feel free to explore these projects and reach out if you have any questions or want to collaborate on something exciting!
 
 ---
 
