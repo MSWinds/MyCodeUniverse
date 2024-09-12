@@ -4,10 +4,13 @@ Embark on a journey through MyCodeUniverse, a vibrant constellation of my coding
 
 ## 🔥 Featured Projects
 
-Below is a collection of some small public projects that I've worked on. They range from comprehensive, feature-rich applications to smaller, experimental ventures.
+Below is a collection of some small public projects I've worked on. They range from comprehensive, feature-rich applications to smaller, experimental ventures.
+
+### [RankFusion](https://github.com/MSWinds/rankfusion)
+This project provides an implementation of various rank fusion algorithms commonly used in information retrieval and recommendation systems. These algorithms combine rankings from multiple sources to generate a unified, more accurate final ranking. This repository features Reciprocal Rank Fusion (RRF), Inverse Square Rank Fusion (ISR), and Relative Distance Fusion (RDF) with both Min-Max and Distribution-Based normalization strategies.
 
 ### [Yuri-Function Collection](https://github.com/MSWinds/yuri-func)
-A curated assortment of custom Python utilities and functions, the Yuri-Function Collection is designed for easy integration and use in a variety of projects. It showcases practical and reusable code pieces, ideal for enhancing functionality and efficiency in diverse Python applications.
+A curated assortment of custom Python utilities and functions, the Yuri-Function Collection is designed for easy integration and use in various projects. It showcases practical and reusable code pieces, ideal for enhancing functionality and efficiency in diverse Python applications.
 
 ### [Kaggle House Price Prediction](https://github.com/MSWinds/kaggle-house-price-prediction)
 My first foray into Kaggle competitions, this project utilizes the Ames Housing dataset to predict house prices. It represents a significant step in my data science journey, showcasing my skills in data analysis and machine learning to achieve a decent result.
